@@ -1,3 +1,10 @@
+/*
+* Gerard Lamoureux
+* SortAlgorithm
+* Assignment 8
+* Handles the abstract sorting algorithm class
+*/
+
 using System.Collections;
 using System.Collections.Generic;
 using TMPro;

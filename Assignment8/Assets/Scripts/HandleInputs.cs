@@ -1,3 +1,10 @@
+/*
+* Gerard Lamoureux
+* HandleInputs
+* Assignment 8
+* Handles the inputs from the user to then call the sorting algorithms
+*/
+
 using System.Collections;
 using System.Collections.Generic;
 using TMPro;

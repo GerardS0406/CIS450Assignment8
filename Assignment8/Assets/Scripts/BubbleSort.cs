@@ -1,3 +1,10 @@
+/*
+* Gerard Lamoureux
+* BubbleSort
+* Assignment 8
+* Handles the BubbleSort algorithm
+*/
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

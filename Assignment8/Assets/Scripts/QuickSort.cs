@@ -1,3 +1,10 @@
+/*
+* Gerard Lamoureux
+* QuickSort
+* Assignment 8
+* Handles the QuickSort algorithm
+*/
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
